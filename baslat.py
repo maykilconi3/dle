@@ -8,11 +8,7 @@ print('''
  _/ |_|_|\___|\__|  \___|_| |_|\___|\___|_|\_\
 |__/                                          
 	        	
-     jilet check sülale çıkarma programına hoşgeldiniz sayın(swantex)
-     
-     
-     
-	 
+     jilet check sülale çıkarma programına hoşgeldiniz sayın(swantex)     	 
 ''')
 asistansecenek = input("TC GİRİN!")
 
